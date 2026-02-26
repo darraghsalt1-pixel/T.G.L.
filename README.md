@@ -56,8 +56,8 @@ brew install cmake
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-user/T.G.L.git
-cd T.G.L.
+git clone https://github.com/darraghsalt1-pixel/T.G.L.git
+cd T.G.L
 
 # Build
 mkdir build && cd build
